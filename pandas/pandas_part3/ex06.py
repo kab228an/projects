@@ -1,0 +1,1 @@
+#res = df[(df.grade == 'Senior') & (df.salary > 150000)]
